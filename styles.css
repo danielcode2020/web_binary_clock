@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(209, 209, 209);
+}
+
+.dot00, .dot01, .dot02, .dot03, .dot04, .dot05,
+.dot10, .dot11, .dot12, .dot13, .dot14, .dot15,
+.dot20, .dot21, .dot22, .dot23, .dot24, .dot25,
+.dot30, .dot31, .dot32, .dot33, .dot34, .dot35
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgb(153, 150, 149);
+}
